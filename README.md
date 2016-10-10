@@ -16,7 +16,7 @@ You need to enable the plugin on Settings -> Plugins and fill what's the field w
 
 ## About
 
-This is a work in progress! Feel free to use and ask questions here, or on [Meta](meta.discourse.org).
+This is a work in progress! Feel free to use and ask questions here, or on [Meta](https://meta.discourse.org).
 
 ## TODO
 
