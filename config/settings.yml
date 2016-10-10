@@ -1,0 +1,5 @@
+plugins:
+  discourse_overwatch_stats_enabled:
+    default: false
+  discourse_overwatch_stats_battle_tag_field_name:
+    default: 'BattleTag'
